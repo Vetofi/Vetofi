@@ -4,7 +4,24 @@
 
 ---
 
+<div align="center">
+
+## 📍 About Me
+
+```
+Full Stack Developer | C++ | Java | Python | React
+Building fast & clean code from Belarus 🇧🇾
+```
+
+</div>
+
+---
+
 ### 🔧 Tech Stack
+
+<div align="center">
+
+**Languages**
 
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff)](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
@@ -13,12 +30,25 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ffffff)](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ffffff)
 
+**Frontend & UI**
+
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+[![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=ffffff)](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=ffffff)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
+
+**Backend & Databases**
+
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=ffffff)](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=ffffff)
 [![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=ffffff)](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=ffffff)
+
+**DevOps & Tools**
+
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
@@ -28,25 +58,55 @@
 - ⚡ Creating **modern frontend applications** with React & TypeScript
 - 🧠 Diving deeper into **system design** and **algorithms**
 - 🌐 Exploring **cloud technologies** and **DevOps**
-- 📡 Streaming development sessions on **Twitch**
+- 📚 Contributing to **open source** projects
 
 ---
 
-### 🎮 Current Focus
+### 💡 My Approach
 
-- Performance optimization
-- Clean code architecture
-- System design patterns
-- Open source contributions
-- Helping the community grow
+```
+Performance + Clean Code + User Experience = Great Software
+```
+
+I believe in:
+- ✅ Writing maintainable, testable code
+- ✅ Performance optimization from day one
+- ✅ Collaborative problem-solving
+- ✅ Continuous learning and growth
+- ✅ Delivering real value
+
+---
+
+### 🎮 Interests
+
+- Gaming & exploring game internals
+- Open to remote opportunities
+- Always open for collaborations
+- Learning new technologies
+
+---
+
+### 📚 Currently Learning
+
+```
+→ Advanced System Design
+→ Microservices Architecture
+→ Cloud Technologies (AWS/GCP)
+→ Performance Optimization
+→ Competitive Programming
+```
 
 ---
 
 ### 🔗 Connect With Me
 
+<div align="center">
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vetofi)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/vetifi)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+**Let's build something amazing together! 🚀**
+
+</div>
 
 ---
 
