@@ -28,7 +28,6 @@
 - ⚡ Creating **modern frontend applications** with React & TypeScript
 - 🧠 Diving deeper into **system design** and **algorithms**
 - 🌐 Exploring **cloud technologies** and **DevOps**
-- 📡 Streaming development sessions on **Twitch**
 
 ---
 
