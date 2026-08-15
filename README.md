@@ -22,18 +22,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vetofi&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vetofi&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ### 🚀 What I'm Working On
 
 - 🔨 Building **high-performance systems** with C++ and Java
@@ -64,10 +52,4 @@
 
 <div align="center">
   <img src="https://count.getloli.com/@Vetofi.github?name=Vetofi&theme=booru-jaypee&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto" alt="Moe Counter" />
-</div>
-
-<div align="center">
-  
-**Made with ❤️ by Vetofi**
-
 </div>
