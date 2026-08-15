@@ -4,25 +4,25 @@
 
 ---
 
-## 🎯 Tech Stack
+### 🔧 Tech Stack
 
-[![C++](https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=c%2B%2B&logoColor=0059C)</https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=c%2B%2B&logoColor=0059C)
-[![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=ED8B00)](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-[![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB)](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB)
-[![Kotlin](https://img.shields.io/badge/Kotlin-111111?style=for-the-badge&logo=kotlin&logoColor=7F52FF)](https://img.shields.io/badge/Kotlin-111111?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
-[![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-[![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff)](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=ffffff)](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=ffffff)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ffffff)](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ffffff)
 
-[![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
-[![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=339933)](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=316192)](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=316192)
-[![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=13AA52)](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=13AA52)
-[![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED)](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED)
-[![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=ffffff)](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=ffffff)
+[![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=ffffff)](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=ffffff)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vetofi&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" />
@@ -34,17 +34,27 @@
 
 ---
 
-## 🚀 What I'm Working On
+### 🚀 What I'm Working On
 
-- Building **high-performance systems** with C++ and Java
-- Creating **modern frontend applications** with React & TypeScript
-- Exploring **system design** and **advanced algorithms**
-- Contributing to **open source** projects
-- Streaming coding sessions on **Twitch**
+- 🔨 Building **high-performance systems** with C++ and Java
+- ⚡ Creating **modern frontend applications** with React & TypeScript
+- 🧠 Diving deeper into **system design** and **algorithms**
+- 🌐 Exploring **cloud technologies** and **DevOps**
+- 📡 Streaming development sessions on **Twitch**
 
 ---
 
-## 🔗 Connect With Me
+### 🎮 Current Focus
+
+- Performance optimization
+- Clean code architecture
+- System design patterns
+- Open source contributions
+- Helping the community grow
+
+---
+
+### 🔗 Connect With Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vetofi)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/vetifi)
@@ -58,6 +68,6 @@
 
 <div align="center">
   
-  **Made with ❤️ by Vetofi**
-  
+**Made with ❤️ by Vetofi**
+
 </div>
